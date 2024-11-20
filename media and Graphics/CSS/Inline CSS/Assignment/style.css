@@ -1,0 +1,25 @@
+/* Type/Element */
+p{
+    color: red;
+}
+/* Class Selector */
+.sh{
+    color:aliceblue
+} 
+
+/* Id Selector */
+#r{
+    color: aqua;
+}
+/* Descendant Selector */
+div p{
+    color: blue;
+}
+/* Child Selector */
+ul>li{
+    color: brown;
+}
+/* Attribute Selector */
+input[type="text"]{
+    color: chartreuse;
+}
